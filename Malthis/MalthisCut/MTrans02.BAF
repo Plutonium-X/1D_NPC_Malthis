@@ -1,0 +1,25 @@
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId("Malt")
+		SetGlobal("MalthisReaktionRitter","LOCALS",3)
+		DisplayStringHead("Malt",@1) // Malthis stürzt zu dem toten Ritter und trinkt sein Blut...
+		Wait(3)
+		FadeToColor([20.0],0)
+		Wait(1)
+		ApplySpell(Myself,HELL_GAIN_DEX)
+		ApplySpell(Myself,HELL_GAIN_STR)
+		DestroyItem("MRing2") // Ring
+		ApplySpellRES("MRingSp2",Myself) // Melfs Magische Meteoriten
+		Wait(3)
+		FadeFromColor([20.0],0)
+		Wait(1)
+		DisplayStringHead("Malt",@2) // Es scheint, als wenn Malthis Kraft gewinnt....
+		CreateVisualEffectObject("SPFLSRIN",Myself)
+		ReallyForceSpell(Myself,HOLY_LIGHT_FROM_ABOVE)
+		Wait(2)
+		SetGlobal("MalthisTransformation","LOCALS",2)
+		StartDialogueNoSet([PC])
+		EndCutSceneMode()
+END

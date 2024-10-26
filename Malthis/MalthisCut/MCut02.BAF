@@ -1,0 +1,18 @@
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId("Malt")
+		FadeToColor([20.0],0)
+		Wait(1)
+		CreateCreatureObject("MKERN",Myself,0,0,0)
+		CreateCreatureObject("MDINDAL",Myself,0,0,0)
+		CreateCreatureObjectOffScreen("MSOLD04",Myself,0,0,0)
+		CreateCreatureObjectOffScreen("MSOLD05",Myself,0,0,0)
+		CreateCreatureObjectOffScreen("MDRUIDE",Myself,0,0,0)
+		Wait(1)
+		FadeFromColor([20.0],0)
+		Wait(1)
+		ActionOverride("MKERN",StartDialogueNoSet("Malt"))
+		EndCutSceneMode()
+END

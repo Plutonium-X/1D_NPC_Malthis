@@ -1,0 +1,19 @@
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId("Malt")
+		FadeToColor([20.0],0)
+		Wait(1)
+		CreateCreatureObject("MCAPT01",Myself,0,0,0) // Ritter des Ordens
+		CreateCreatureObjectOffScreen("MSOLD01",Myself,0,0,0) // Söldner
+		CreateCreatureObjectOffScreen("MSOLD02",Myself,0,0,0) // Söldner
+		CreateCreatureObjectOffScreen("MSOLD03",Myself,0,0,0) // Söldner
+		Wait(1)
+		FadeFromColor([20.0],0)
+		Wait(1)
+		ActionOverride("MCAPT01",StartDialogueNoSet("Malt"))
+		EndCutSceneMode()
+END
+
+
