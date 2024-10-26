@@ -1,5 +1,5 @@
 # Malthis
-Malthis est un mod de pnj pour BG2EE qui vous fera renconter Malthys le bretteur vampyre près de la forge de Cromwell (de nuit).
+Malthis est un mod de pnj pour BG2EE qui vous fera renconter Malthis le bretteur vampyre près de la forge de Cromwell (de nuit).
 
 Particularités :
 
