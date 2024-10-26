@@ -1,5 +1,5 @@
 # Malthis
-Malthis est un compagon bretteur vampyre que vous trouverez près de la forge de Cromwell la nuit.
+Malthis est un compagnon bretteur vampyre que vous trouverez près de la forge de Cromwell la nuit.
 
 Particularités :
 
