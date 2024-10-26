@@ -1,0 +1,102 @@
+@0 = ~Si nous devons d’ores et déjà aller au fond des choses, alors je peux vous raconter mon histoire. Je viens d’un petit village. Mon beau-père m’a enseigné entre autre le maniement des armes. Malheureusement, beaucoup de villageois n’avaient pas une telle chance, et méprisaient ma famille. Même si leur mépris était insignifiant, ils ne s’arrêtaient jamais. Nous étions déjà trop différents, et mon beau-père venait de loin. Il ne reflétait pas vraiment l’image du reste du village.~
+@1 = ~Une nuit arriva une monture, conduite par un homme vêtu d’une cotte de maille noire! Les villageois se réjouissaient de l’arrivée de cet homme. Les infortunés lui parlaient beaucoup des inquiétants rites et autres cérémonies blasphématoires que ma famille et moi-même étions accusés d’accomplir ! L’inquisiteur décida alors qu’on devait punir le village entier, et décima toute la population ! ~
+@2 = ~Je n’étais pas au village, car j’avais affaire à l’extérieur. Lorsque je revins, les soldats avaient déjà accompli leur tâche diabolique! Ils avaient massacré tout le village. J’ai réussi à sauver mon fils de la mort, mais mon beau-père vécut juste assez longtemps pour m’informer des méfaits de ces chevaliers ! Le carnage perpétré dans ce village était si absurde et si inutile… Je pouvais suivre les responsables et tuer l’un d’entre eux, le susnommé Kern. Tout au moins, c’était ce que je croyais, mais je me trompais. Enfin, j’ai maintenant assez raconté de choses sans importance. Désolé <CHARNAME>! Continuons, si désespérés que puissent être nos voyages.~
+@3 = ~Encore une aggression, aussi vaine qu’elle fut ! Pourquoi ce voleur m’a-t-il seulement attaqué, il est mort maintenant…Oh, un spectateur. Mon nom est Malthis, et j’ai déjà entendu parler de vous, <CHARNAME>! Cela ne fera vraisemblablement pas grande différence, mais peut-être pourrais-je vous être utile ? Je possède des affinités avec les serrures, les pièges, et je peux aussi me débrouiller comme forgeron. Si vous le désirez, je peux me joindre à vous, bien que nos efforts soient d’emblée voués à l’échec. ~ [MALTH03]
+@4 = ~Oui, vous pourriez bien m’être utile!~
+@5 = ~Non, désolé!~
+~Non, désolée!~
+@6 = ~Bien, je me joins alors volontiers à votre groupe, même si nous sommes tous maudits !~
+@7 = ~Je peux comprendre votre décision, les chances que vous m’acceptiez étaient maigres. Je vous souhaite une bonne continuation, et peut-être nous reverrons-nous. Je m’arrêterai la nuit à cet endroit à l’avenir.~
+@8 = ~Aha, salut <CHARNAME>. Auriez-vous besoin de moi ? ~
+@9 = ~ Je peux comprendre votre décision, les chances que vous m’acceptiez étaient maigres.. Je vous souhaite une bonne continuation, je vais maintenant sans doute quitter Athkatla définitivement. Portez-vous bien…~
+@10 = ~Non, NON… Je ne peux contenir la soif… Je suis comme contraint, <CHARNAME>! Mon corps réclame de la nourriture, de la nourriture dont il a été si longtemps privé… *Vous voyez comment Malthis plante ses dents dans la carotide du cavalier. Une vague d’énergie incroyable traverse son corps…* ~
+@11 = ~Que s’est-t-il passé ?! Je me sens si… différent ! Tellement plus fort… ! Pendant un court instant, j’ai senti le cavalier en moi ; je crois que je perds la raison ! Quelque chose se manifestait en moi . Comme des ténèbres qui se tapissaient au fond de mon âme, et qui venaient du chevalier !~
+@12 = ~Vous vous êtes jeté sur le cavalier mort, comme un animal ! Vous avez bu son sang ! Qui, ou plutôt qu’êtes-vous, Malthis ? Un sorcier… Un démon ?! ~
+@13 = ~Vous êtes rusé et diabolique ! Je vais vous tuer, Malthis ! ~
+@14 = ~Vous me plaisez, Malthis ! Quels autres talents me cachez-vous… ? ~
+@15 = ~Je...je ne le sais pas, <CHARNAME>! Je suis...différent de la plupart des êtres humains. Mes blessures guérissent plus vite, et je suis d’une santé plus robuste. Il en était déjà ainsi dans mon enfance. Alors les autres enfants tombaient en escaladant des arbres et se cassaient quelque chose, mes os eux s’étaient déjà rapidement ressoudés.
+Ce soi-disant défenseur du Bien a réveillé quelque chose en moi ! C’est dans une totale inconscience que je me suis jeté sur lui. Cependant, je sens aussi qu’il n’y a rien de mauvais en moi. Je continuerai à vous aider volontiers, car ce combat était absurde !~
+@16 = ~Bien, peut-être pourrions-nous aussi vous aider et en découvrir un peu plus sur votre « nature » ! Vous pouvez continuer à voyager avec nous, Malthis !~
+@17 = ~Non, vous êtes maléfique ! Je dois malheureusement vous anéantir ! J’en suis désolé !~
+~Non, vous êtes maléfique ! Je dois malheureusement vous anéantir ! J’en suis désolée !~
+@18 = ~Je ne suis pas maléfique. Je… je suis juste différent. Ai-je attaqué ce chevalier, ou bien est-ce lui qui m’a attaqué ?!
+Je n’ai rien fait qui justifie cette attaque !~
+@19 = ~Alors expliquez-moi ce que vous êtes, Malthis !~
+@20 = ~Je suis désolé, mais je dois mettre fin à ceci ! Je vais vous anéantir avant que vous ne deveniez encore plus puissant !~
+~Je suis désolée, mais je dois mettre fin à ceci ! Je vais vous anéantir avant que vous ne deveniez encore plus puissant !~
+@21 = ~Je vous remercie, <CHARNAME>! Aussi inefficaces que puissent être nos actions, je ne trouverai de repos avant d’avoir débusqué l’instigateur de tout ceci. Je devrais aller rencontrer mon contact dans le quartier du pont. Il m’attend à l’auberge de Delosar et affirme connaître les dessous de l’affaire. Même si nos agissements sont prédestinés, nous devrions tout de même visiter cette taverne.~
+@22 = ~Les capacités de Malthis
+
+J’ai pris Malthis, un voleur, dans mon groupe. Un individu plutôt déprimé. Il a quelques contrariétés avec un groupe de gens étranges, qui partagent avec lui une apparente ressemblance. Je lui ai pourtant permis de voyager en notre compagnie. De toutes façons, je sens que Malthis n’est pas maléfique…en tout cas pas pour le moment ! Malthis possède d’ailleurs d’extraordinaires capacités ! Par exemple, ses blessures se régénèrent (2PV toutes les six secondes) et il est devenu plus fort et plus habile. Ses compétences de voleur ont par contre diminué (à chaque fois -20 points en vol à la tire, en crochetage et en détection des pièges). Espérons qu’il reste mon allié ! C’est vrai qu’il ne remonte pas le moral du groupe, mais pour lui le pire doit être passé. Malthis parle d’un contact à l’auberge de Delosar dans le quartier du pont…~
+@23 = ~Comme vous voulez. Notre poursuite est vaine, et nos mots aussi dans le cas présent.~
+@24 = ~Excusez-moi, Malthis! Venez, rejoignez nous, mon ami !~
+@25 = ~Bien, je ne vais pas me faire prier! En avant vers la lutte...~
+@26 = ~Je...je me sens plus fort… Oui, cette puissance est quelque chose de…fantastique !~
+@27 = ~Malthis, revenez vers nous ! Vous devez vous battre contre çela, ne laissez pas le mal prendre le dessus !~
+@28 = ~Qu’êtes vous donc, Malthis ? Je suis navré, mais je dois vous détruire, avant que cela n’empire!~
+~Qu’êtes vous donc, Malthis ? Je suis navrée, mais je dois vous détruire, avant que cela n’empire!~
+@29 = ~Oui, Malthis! Montrez-nous ce qui sommeille en vous ! Suivez le mouvement des ombres, il vous conduira au pouvoir.~
+@30 = ~Les ennemis deviennent inutiles lorsque l’on voyage avec une personne telle que vous. Cependant, vous avez raison, <CHARNAME>! Merci... je m’étais presque égaré dans le tourbillon du Mal, bien que cela soit ma malédiction et que mes actions soient inutiles. Les chevaliers étaient en moi et me harcelaient ! Tout cela est si vain… Si nous devons déjà retourner à la base de tout ceci, nous pourrions commencer à chercher leur chef. Cela ne vaut sans doute pas la peine, car ils ont avoué eux-mêmes ne pas le connaître. Mais essayons toujours.~ [MALTH36]
+@31 = ~Mon Dieu, Malthis! Vous semblez extraordinairement motivé… Peut-être trouverons nous d’autres indices dans un futur proche !~
+@32 = ~Je vous remercie, <CHARNAME>! Malgré la damnation qui plane au-dessus de nos têtes, vous me portez assistance. Alors que les temps sont désespérés, vous m’avez donné une lueur d’espoir.~
+@33 = ~Malthis à gagné de nouvelles capacités
+
+Aujourd’hui, nous avons été attaqués de nouveau! Nous avons pu éliminer les agresseurs mais Malthis n’a pas pu se retenir ! Cela l’a presque tué, mais il a developé de nouvelles capacités. Ses blessures se referment encore plus vite (2 PV toutes les cinq secondes), il esquive mieux les coups (classe d’armure -3), il est aussi devenu plus fort et plus habile. Il est en outre devenu plus fort d’une autre manière : il bouge plus rapidement (vitesse de mouvement +2). Malheureusement, nous ne sommes toujours pas en mesure de découvrir qui tire les ficelles, et nous n’avons aucune piste...~
+@34 = ~Oui, <CHARNAME>! Vous avez raison! Je vais laisser libre cours à mon pouvoir! Continuons… Rien ne peut nous arrêter…HaHaHa...Mais, que se passe-t-il ?! Je me sens si différent… je me métamorphose !!~
+@35 = ~Malthis devient un vampire de manière plus évidente 
+
+Aujourd’hui, nous avons été attaqués de nouveau! Nous avons pu éliminer les agresseurs mais Malthis n’a pas pu se retenir ! Je l’ai encore renforcé! Son comportement change! Il est maintenant plus agressif et assez belliqueux, presque maléfique (Alignement : chaotique mauvais) ! Ses blessures se referment encore plus vite (2 PV toutes les cinq secondes), il esquive mieux les coups (classe d’armure -3), il est aussi devenu plus fort et plus habile. En outre, il semble immunisé à l’absorption d’énergie. Malheureusement, nous ne sommes toujours pas en mesure de découvrir qui tire les ficelles, et nous n’avons aucune piste...~
+@36 = ~ Non, NON… Je ne peux contenir la soif… Je suis comme contraint, <CHARNAME>! Mon corps réclame de la nourriture, de la nourriture dont il a été si longtemps privé… *Vous voyez comment Malthis plante ses dents dans la carotide du vampyre. Une vague d’énergie incroyable traverse son corps…* ~
+@37 = ~C’est maintenant terminé. Ce combat était vain et inutile ! Je n’ai pas plus d’espoir maintenant. Beaucoup de gens vont mourir à cause de ce pouvoir. Cela en valait-il la peine, <CHARNAME>? Pouvez-vous répondre à cette question ? ~
+@38 = ~Personne ne peut répondre catégoriquement à cette question, Malthis! Vous êtes devenu le membre le plus fiable de ce groupe, et je n’aimerais pas avoir à me séparer de vous. Je suis content que votre *transformation* soit achevée.~
+~Personne ne peut répondre catégoriquement à cette question, Malthis! Vous êtes devenu le membre le plus fiable de ce groupe, et je n’aimerais pas avoir à me séparer de vous. Je suis contente que votre *transformation* soit achevée.~
+@39 = ~Vous me tapez sur les nerfs avec votre éternel découragement ! Diantre, réjouissez-vous qu’on ait gagné ce combat et cessez de radoter ! Vous êtes pire qu’un croque-mort… !~
+@40 = ~Oui, vous avez raison, <CHARNAME>! Alors que les temps sont désespérés, vous m’avez donné une lueur d’espoir. Pourtant, notre destin est tout tracé, et nous ne pouvons rien faire d’autre que de le suivre...! ~
+@41 = ~La transformation de Malthis est terminée
+
+Aujourd’hui, nous sommes tombés sur un petit groupe de Vampyres à Athkatla! Le combat n’a pas été facile, mais nous avons triomphé. Malthis a achevé sa transformation et est devenu un vampyre Malthis. Il est resté à mes côtés un certain temps, et l’avoir dans le groupe est un plaisir. Nous nous demandons encore tous ce qui va nous arriver. Le vampyre a parlé d’un autre groupe de ses congénères ! Ce n’était sans doute qu’un début…
+
+Anciennes capacités de Malthis
+- Bonus aux dégâts +4
+- Bonus CA -4
+- Immunité au drain d’énergie
+- Bonus de mouvement : +2
+- Régénération : 2PV toutes les deux secondes
+~
+@42 = ~ La transformation de Malthis en vampyre est terminée
+
+Aujourd’hui, nous sommes tombés sur un petit groupe de Vampyres à Athkatla! Le combat n’a pas été facile, mais nous avons triomphé. Malthis a achevé sa transformation et est devenu un vampyre Malthis. Il est resté à mes côtés un certain temps, et l’avoir dans le groupe est un plaisir. Nous nous demandons encore tous ce qui va nous arriver. Ce n’était sans doute qu’un début…
+
+Anciennes capacités de Malthis (forme humaine)
+- Bonus aux dégâts +3
+- Bonus CA -4
+- Immunité au drain d’énergie
+- Dégâts magiques réduits de 10%
+- Bonus de mouvement +2
+- Réduction de dégâts de 10 %
+- Régénération : 2PV toutes les quatre secondes
+- Protection élémentaire
+
+Anciennes capacités de Malthis (forme de loup)
+- Bonus aux dégâts +1
+- Ca de base -4
+- Immunité au drain d’énergie
+- Réduction des dommages magiques de 10%
+- Mouvement accéléré
+- Protection élémentaire
+- Pas de réduction de dégâts
+- Non détection
+- Arme : mâchoire (compte comme arme +1)
+~
+@43 = ~ Je ne peux pas accepter une telle conduite! Je dois m’éloigner de ces barbares. Je vous souhaite beaucoup de chance au cours de vos voyages.~
+@44 = ~Oh non! S’il vous plait, revenez. Je suis désolé !~
+~Oh non! S’il vous plait, revenez. Je suis désolée !~
+@45 = ~Je vous remercie, Malthis. Portez-vous bien.~
+@46 = ~Ce groupe est particulièrement lamentable aujourd’hui! Je vais peut-être passer quelques temps à Athkatla. Au mieux, je vous attendrai au cimetière, ce sera plus calme!~
+@47 = ~Nous vous retrouverons au cimetière quand nous aurons de nouveau besoin de vos services. Merci, Malthis!~
+@48 = ~Attendez plutôt ici, Malthis. Si nous avons de nouveau besoin de vous, nous reviendrons.~
+@49 = ~Nous avons passé de bons moments ensemble. Je vous souhaite beaucoup de chance tout au long de votre voyage. Je vais maintenant quitter Athkatla définitivement. Portez-vous bien, <CHARNAME>!~
+@50 = ~Oh non! S’il vous plait, revenez. Je suis désolé !~
+~Oh non! S’il vous plait, revenez. Je suis désolée !~
+@51 = ~Si c’est ainsi que vous l’entendez, pitoyable <PRO_MANWOMAN>! Je vous souhaite bien du plaisir dans la suite de vos voyages! Et portez vous bien...!~
+@101 = ~J’ai été blessé ! Le feu et l’acide réduisent mon taux de régénération ! Le cycle de guérison est ralenti jusqu'à ce que je sois à nouveau totalement guéri !~

@@ -1,0 +1,230 @@
+SC
+CR
+CO
+TR
+16399 0 0 0 0 "GLOBALM_FeuerschadenMalt" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+TR
+16511 0 0 0 0 "MRING1" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16429 100 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16423 12 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+CO
+RS
+RE
+100AC
+160OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"DKReg" "" AC
+AC
+36OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"" "" AC
+RE
+RS
+CR
+CR
+CO
+TR
+16399 0 0 0 0 "GLOBALM_FeuerschadenMalt" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+TR
+16511 0 0 0 0 "MRING2" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16429 100 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16423 10 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+CO
+RS
+RE
+100AC
+160OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"DKReg" "" AC
+AC
+36OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"" "" AC
+RE
+RS
+CR
+CR
+CO
+TR
+16399 0 0 0 0 "GLOBALM_FeuerschadenMalt" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+TR
+16429 100 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16521 2 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+TR
+16511 0 0 0 0 "MRING3" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16511 0 0 0 0 "MRING5" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16423 8 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+CO
+RS
+RE
+100AC
+160OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"DKReg" "" AC
+AC
+36OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"" "" AC
+RE
+RS
+CR
+CR
+CO
+TR
+16399 0 0 0 0 "GLOBALM_FeuerschadenMalt" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+TR
+16429 100 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16511 0 0 0 0 "MRING4" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16423 4 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+CO
+RS
+RE
+100AC
+160OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"DKReg" "" AC
+AC
+36OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"" "" AC
+RE
+RS
+CR
+CR
+CO
+TR
+16399 1 0 0 0 "GLOBALM_FeuerschadenMalt" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+TR
+16429 100 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16423 20 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+CO
+RS
+RE
+100AC
+160OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"DKReg" "" AC
+AC
+36OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"" "" AC
+RE
+RS
+CR
+CR
+CO
+TR
+16428 100 0 0 0 "" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 "Malt"OB
+TR
+TR
+16399 1 0 0 0 "GLOBALM_FeuerschadenMalt" "" OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+TR
+CO
+RS
+RE
+100AC
+30OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+OB
+0 0 0 0 0 0 0 0 0 0 0 0 ""OB
+0 0 0 0 0"GLOBALM_FeuerschadenMalt" "" AC
+RE
+RS
+CR
+SC

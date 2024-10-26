@@ -1,0 +1,4 @@
+Mise à jour par rapport à la 2.0 :
+- Routine pour BG2EE et EET
+- Mise au format des portraits dans le cas d'une installation EE
+- Correction du texte français pour les capacités des objets.

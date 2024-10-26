@@ -1,0 +1,99 @@
+@0    = ~Malthis, le bretteur!~
+@1    = ~Malthis~
+@2    = ~Quand vous le questionnez à propos de son passé, Malthis vous répond avec hésitation. Il dit qu'il vient d'un petit village que lui et sa famille ont dû quitter. Il accentue le mot "quitter" de manière étrange, mais il refuse d'en dire plus à ce sujet...~
+@3    = ~Continuons, aussi inutile que cela soit!~ [MALTH03]
+@4    = ~Peut-être survivrons-nous plus longtemps que je ne le pensais.~ [MALTH04]
+@5    = ~Si je dois diriger ce groupe, je ferai attention à ce que nous ne mourrions pas TOUS.~ [MALTH08]
+@6    = ~Je m'écroulerai de fatigue avant de tomber au champ de bataille.~[MALTH09]
+@7    = ~Nous sommes tous maudits.~ [MALTH17]
+@8    = ~Vous n’allez pas le croire, mais le triste troupeau que nous formons pourrait prendre le dessus sur l’ennemi.~ [MALTH24]
+@9    = ~Nous sommes tous maudits, courrons tant que nous le pouvons encore.~ [MALTH02]
+@10   = ~AHHHH~ [MALTH39]
+@11   = ~Mes blessures sont trop profondes, je suis un homme mort.~ [MALTH11]
+@12   = ~Je me sens insignifiant dans cette majestueuse forêt.~ [MALTH12]
+@13   = ~Dans l'activité fourmillante des grandes villes, je me sens insignifiant.~ [MALTH13]
+@14   = ~La vie est si vaine~ [MALTH18]
+@15   = ~Notre lutte est inutile.~ [MALTH19]
+@16   = ~Quoi encore?~ [MALTH20]
+@17   = ~Où en est la raison?~ [MALTH21]
+@18   = ~Comme vous voulez.~ [MALTH22]
+@19   = ~Cela ne vaut même pas la peine d'essayer.~ [MALTH23]
+@20   = ~Je fais ce que je peux, mais s'il vous plaît, n'en attendez pas de trop..~ [MALTH26]
+@21   = ~Venez, économisons nos effort, contentons-nous de nous allonger ici et de mourir.~ [MALTH25]
+@22   = ~Armure de cuir de Malthis~
+@23   = ~Cette armure à été fabriquée pour Malthis par son ami, le rôdeur Rondar Œil-de-Chevreuil.
+
+Autrefois, un groupe d'ankhegs s'attaquait au troupeau d'un paysan. Rondar, qui s'était engagé comme rôdeur, désirait épier les créatures et leur tendre une embuscade. Il attendit des nuits entières devant leur antre, mais ne vit rien. A la fin du huitième jour, les créatures apparurent enfin.
+Le combat contre les ankhegs se révéla dur et acharné, jusqu'à ce que Rondar vit venir face à lui une créature plus grosse, qui était sensiblement différente des autres. L'ankheg semblait plus vieux et plus aguerri. Rondar se serait presque fait tuer par la créature si un jeune homme n'avait pas sauté sur le dos de l'ankheg. L'ankheg essaya de se débarrasser du jeune homme mais l'homme tenait bon et enfonça sa dague dans le corps de la bête. Le rôdeur vit alors sa chance et s'élança sur la créature, lui plantant son épée courte dans le poitrail. La lame pénétra à peine la carapace de la bête. Au contraire des autres ankhegs, la peau de celui-ci ressemblait à du cuir.
+L'ankheg se cabra et éjecta le jeune homme qui était sur sa nuque, qui tomba sur un rocher et resta étendu au sol.
+Alors que la créature agonisait, le rôdeur courut vers le jeune homme blessé, pour constater son état. Alors qu'il examinait le jeune homme, il ne put en croire ses yeux. Ses blessures se refermaient à vue d'oeil.
+Certes, il se demandait qui était ce garçon, mais comme il ne sentait rien de mauvais en lui et qu'il lui avait sauvé la vie, le reste lui était égal. Les deux hommes devinrent amis. Pour prouver sa reconnaissance à Malthis (ainsi s'appelait le jeune homme), Rondar lui offrit quelques semaines plus tard cette armure. Il avait beaucoup travaillé de ses propres mains pour transformer la carapace de l'ankheg en une armure de cuir.
+
+PARAMETRES:
+
+Capacité d'équipement :
+- Jets de sauvegarde : +4
+- résistance à la magie : +10%
+- Déplacement silencieux : +20%
+
+Classe d'armure 3
+Poids: 5
+Ne peut être utilisée que par Malthis.~
+@24   = ~Malthis porte cet anneau depuis sa naissance. Il semble s'être adapté a Malthis au fil des ans. Malthis est cependant incapable de vous dire à quoi sert cet anneau.~
+@25   = ~Coupe sombre~
+@26   = ~Coupe sombre, drôle de nom! Un nom qui évoque les ténèbres et la mort, même si rien ne saurait être moins vrai. La lame de l’amitié, ainsi peut-on la considérer. Malthis l’a reçue d’un forgeron nain, Bitterberg Bierkrug, qui lui a offerte en guise de paiement pour son aide désintéressée et amicale. Après avoir assisté au meurtre de sa famille, Malthis traînait sans but, jusqu'à ce qu’il rencontre ce forgeron nain. Celui-ci avait accepté une commande sans penser qu’il n’avait pas d’assistant dans sa forge Malthis, qui à ce point n’avait plus d’objectif précis dans la vie, se porta volontaire pour l’aider. Ils passèrent ainsi des jours entiers, debout dans la forge,  le bois brûlant sans cesse. Durant ce travail, le nain grognon commença à apprécier l’homme méfiant. Il lui semblait que Malthis était un escrimeur plutôt doué à l’épée courte. Alors que le travail touchait à sa fin, le nain commença à forger une épée courte dans un métal plus sombre et plus léger pour son ami, afin de lui montrer sa gratitude. D’une certaine manière, le nain se doutait bien que cet homme aurait plus besoin d’une épée que d’or. Il savait que Malthis était pourchassé par quelqu’un ou quelque chose.
+C’est pour cette raison qu’il équilibra parfaitement la lame, afin de renforcer au mieux les talents de Malthis !
+
+PARAMETRES:
+
+Capacité de combat :
+- Draine 1 niveau de la cible si celle-ci rate un jet de sauvegarde contre la mort à -5
+
+TAC0: +3
+Dégâts: 1d6+3 (perforant)
+Poids: 3
+Facteur de vitesse: 0
+Type de compétence: Epée courte
+Type: arme à 1 main
+Ne peut être utilisée que par Malthis~
+@27   = ~Epine d’acide~
+@28   = ~Epine d’acide, un nom à la connotation très simple, mais qui ne pourrait être plus adapté. Il décrit bien l’arme, qui telle une épine laisse du poison dans les blessures qu’elle inflige.
+Elle a d’abord appartenu à la seule personne, en dehors de sa propre compagne, qui arrivait à faire rire Malthis, Rondar Œil-de-Chevreuil.
+Rondar était un rôdeur prudent, mais qui prenait tout à la légère. Il voyait toujours le bon côté des choses. Lorsqu’il tombait dans une rivière, il riait aux éclats et disait « Pas grave, voulais me baigner aujourd’hui. L’eau aurait quand même pu être plus chaude ! ». 
+Rondar ne se laissait pas influencer par les rumeurs colportées par les gens concernant Malthis et sa famille. Assez souvent, un des villageois quittait l’auberge du Poney Dansant avec un œil au beurre noir après avoir médit sur Malthis.
+Ensemble, Rondar et Malthis poursuivaient souvent des Trolls qui se tapissaient aux alentours du village ou bien allaient tout simplement se promener en forêt. Ils étaient tout simplement de bons amis.
+Jusqu’à l’heure noire où des étrangers vinrent au village et tuèrent tout le monde en cherchant Malthis. Rondar essaya ce jour là de protéger la famille de Malthis, ce dernier n’étant pas au village. Mais ce gage d’amitié lui coûta la vie. Au retour de Malthis, le rôdeur n’eut que le temps de céder à Malthis sa fidèle épée Epine d’acide avant que Kelemvor ne l’emporte dans son royaume. Malthis prit l’épée de son ami, et jura vengeance, vengeance pour son ami et pour sa famille.
+
+PARAMETRES:
+
+Capacité d'équipement :
+- Action libre
+- +1 attaque par round
+
+TAC0: +2
+Dégâts: 1d6+2 (perforant) +2 points de dégâts d’acide
+Poids: 2 
+Facteur de vitesse: 1
+Type de compétence: Epée courte
+Type: Arme à une main
+Ne peut être utilisée que par Malthis.~
+@29   = ~Convocation de muloups~
+@30   = ~Métamorphose: Forme gazeuse~
+@31   = ~Document~
+@32   = ~Lettre
+
+Arrangez vous pour que Malthis ne se mette plus en travers de mon chemin. Il pourrait s’avérer dangereux si nous le sous-estimons.
+Je vous re-contacterai, quand cela me convient.~
+@33   = ~Message
+
+Vous trouvez sur le corps du cavalier un message dont le texte a été partiellement effacé par le temps ....
+
+Oyez, oyez!
+
+Par la présente, est déclarée notre reconnaissance envers nos collaborateurs acharnés Wertax, Dragonheart, Fedegar, Angus et Abazigal pour leur aide inestimable! Leur nom restera gravés dans notre mémoire…
+
+(Le reste du message est malheureusement indéchiffrable...)~
+@34   = ~Kern~
+@35   = ~Dindal~
+@36   = ~!Installation de l’extension pour ToB!~
+@37   = ~Quand vous le questionnez à propos de son passé, Malthis vous répond avec hésitation. Il dit qu'il vient d'un petit village que lui et sa famille ont dû quitter. Il accentue le mot "quitter" de manière étrange, mais refuse d'en dire plus à ce sujet...~

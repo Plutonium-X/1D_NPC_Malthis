@@ -1,0 +1,97 @@
+@0    = ~Wenn wir schon zugrunde gehen müssen, dann kann ich Euch auch meine Geschichte erzählen! Ich stamme aus einem kleinen Dorf. Mein Stiefvater hat mich in der Waffenkunst und anderen Dingen geschult. Leider gönnten uns viele Bewohner dieses Glück nicht und verachteten meine Familie. Obwohl Ihre Verachtung so sinnlos war, hörten sie nicht auf. Wir waren schon immer anders und mein Stiefvater kam von Weit her. Er passte nicht in das Bild eines Dorfbewohners.~
+@1    = ~Eines Nachts kamen dann diese Ritter, angeführt von einem Mann in schwarzer Kutte! Den Dorfbewohner kamen die Leute gerade recht. Die Unglückseligen erzählten wohl von unheimliche Riten und anderen gotteslästerlichen Dingen, die ich und meine Familie ausführen sollten! Die Ritter beschlossen aber wohl, dass man gleich das gesamte Dorf bestrafen sollte und brachten jeden um!~
+@2    = ~Ich war nicht im Dorf, sondern hatte außerhalb zu tun. Als ich wieder kam, hatten diese Soldaten schon Ihr Teufelswerk getan! Das gesamte Dorf hatten Sie danieder gemetzelt. Meinen Sohn konnte ich nur noch tot bergen, nur mein Stiefvater lebte lange genug, um mir von diesen Rittern zu berichten! So sinnlos und vergeblich war dieses Gemetzel an dem Dorf. Ich konnte den Tätern auflauern und einen, den schon erwähnten Kern, töten! Dies zumindest dachte ich, aber ich habe mich ja anscheinend geirrt. So, jetzt habe ich genug sinnloses Zeug geredet. Es tut mir Leid, <CHARNAME>! Gehen wir weiter, so hoffnungslos es auch sein mag...!~
+@3    = ~Weiter, wie sinnlos es auch sein mag! Warum hat mich dieser Dieb nur angegriffen, jetzt ist er tot...Oh, Zuschauer. Mein Name ist Malthis und ich habe schon von euch gehört, <CHARNAME>! Es macht wahrscheinlich keinen großen Unterschied, aber vielleicht könnte ich Euch noch nützlich sein? Ich besitze Fähigkeiten im Umgang mit Schlössern, Fallen und kann auch mit dem Waffenhandwerk umgehen. Sofern Ihr es wünscht schließe ich mich Euch an, obgleich unser Streben hoffnungslos sein wird.~ [MALTH03]
+@4    = ~Ja, ich kann Euch gut gebrauchen!~
+@5    = ~Nein, tut mir Leid!~
+@6    = ~Nun gut, ich schließe mich Euch gerne an, auch wenn wir alle verdammt sind!~
+@7    = ~Ich kann Eure Entscheidung verstehen, denn die Chancen stehen denkbar schlecht. Ich wünsche Euch einen guten Weg, vielleicht sieht man sich ja mal wieder? Ich werde mich wohl in den Nachtstunden an diesem Ort weiterhin aufhalten.~
+@8    = ~Aha, hallo <CHARNAME>. Könnt Ihr mich doch gebrauchen?~
+@9    = ~Ich kann Eure Entscheidung verstehen, denn die Chancen stehen denkbar schlecht. Ich wünsche Euch einen guten Weg, ich werde jetzt wohl endgültig Atkatla verlassen. Lebt denn wohl...!~
+@10   = ~Nein, NEIN...Ich kann den Durst nicht zurückhalten...Es ist wie ein Drang, <CHARNAME>! Mein Körper lechzt nach Nahrung, Nahrung, die ihm so lange vorenthalten wurde.....*Ihr seht, wie Malthis seine Zähne in die Halsschlagader des Ritters gräbt. Eine Welle unglaublicher Energie rast durch seinen Körper...*~
+@11   = ~Was ist geschehen?! Ich fühle mich so...anders! So viel stärker....! Der Ritter war für kurze Zeit in mir, ich dache, ich verliere den Verstand! Etwas regte sich in mir. Eine Schwärze, die am Grunde meiner Seele lauerte und von dem Ritter kam!~
+@12   = ~Ihr seid über den toten Ritter hergefallen, wie ein Tier! Ihr habt sein Blut getrunken! Wer oder was seid Ihr, Malthis!? Ein Magier...ein Teufel?!~
+@13   = ~Ihr seid böse und verschlagen! Ich werde Euch töten, Malthis!~
+@14   = ~Ihr gefallt mir, Malthis! Was versteckt ihr denn noch für Talente...?~
+@15   = ~Ich...ich weiß es nicht, <CHARNAME>! Ich bin...anders, als die meisten Menschen. Meine Wunden heilen schneller und ich habe eine robustere Gesundheit. Das war schon in meiner Kindheit so. Wenn andere Kinder vom Baum gefallen sind und sich etwas gebrochen haben, haben sich meine Knochen schnell wieder zusammengefügt.
+Dieser angeblicher Streiter des Guten scheint etwas in mir aufgeweckt zu haben! Es war ganz unbewusst, dass ich mich auf ihn gestürzt habe. Allerdings fühle ich auch, dass nichts Böses in mir ist. Ich würde Euch gerne weiter helfen, denn unser Kampf wäre so sinnlos!~
+@16   = ~Nun gut, vielleicht können wir Euch ja helfen und mehr über Eure "Art" herausfinden! Ihr könnt weiterhin mit uns reisen, Malthis!~
+@17   = ~Nein, Ihr seid das Böse! Ich muss Euch leider vernichten, Malthis! Es tut mir Leid!~
+@18   = ~Ich bin nicht Böse. Ich...ich bin nur anders, als die anderen Menschen. Habe ich diese Ritter angegriffen oder Sie mich?!
+Ich habe nichts getan, was diesen Angriff rechtfertigt!~
+@19   = ~Dann erklärt mir, was Ihr seid, Malthis!~
+@20   = ~Es tut mir Leid, aber ich werde dem ein Ende setzen! Ich werde Euch vernichten, bevor Ihr noch stärker werdet!~
+@21   = ~Ich danke Euch, <CHARNAME>!  So unwirksam unsere Handlungen auch sein mögen, werde ich dennoch nicht ruhen, bevor ich nicht den Anstifter gefasst habe. Ich sollte mich mit einem Kontaktmann im Brückenviertel treffen. Er erwartet mich in Delosars Schänke und behauptete mehr Hintergründe zu kennen. Auch wenn unsere Handlungsweisen vorherbestimmt sind, sollten wir dennoch diese Taverne aufsuchen.~
+@22   = ~Malthis Fähigkeiten
+
+Ich habe Malthis, einen Dieb, in meine Gruppe aufgenommen! Ein ziemlich niedergeschlagener Kerl. Er hat Ärger mit einer unheimlichen Gruppe von Leuten, die anscheinend Ähnlichkeit mit ihm haben. Ich habe ihm dennoch erlaubt, dass er mit mir ziehen kann. Irgendwie spüre ich, dass Malthis nicht böse ist...jedenfalls im Moment noch nicht! Malthis besitzt übrigens außergewöhnliche Fähigkeiten! So regeneriert er Wunden (alle 6 Sekunden 2HPs), ist stärker und geschickter geworden. Seine Diebsfähigkeiten sind jedoch eingeschränkt (jeweils -20 Punkte auf Taschendiebstahl, Schlösser knacken und Fallen finden). Hoffentlich wird er weiterhin mein Verbündeter sein! Allerdings hebt er nicht gerade die Moral der Gruppe, ihm muss Schreckliches passiert sein. Malthis sprach von einem Kontaktmann in Delosars Schänke im Brückenviertel...~
+@23   = ~Wie Ihr meint. Unser Streben ist so sinnlos und Eure Worte in diesem Fall auch.~
+@24   = ~Es tut mir Leid, Malthis! Kommt, ziehen wir weiter, mein Freund!~
+@25   = ~Nun gut, dies muss ich mir nicht bieten lassen! Auf in den Kampf...~
+@26   = ~Ich...ich fühle mich stärker...Ja, diese Macht ist etwas...Wunderbares!~
+@27   = ~Malthis, kommt wieder zu Euch! Ihr müsst dagegen ankämpfen, lasst nicht das Böse obsiegen!~
+@28   = ~Was seid Ihr nur, Malthis! Es tut mir Leid, aber ich muss Euch vernichten, bevor noch Schlimmeres geschieht!~
+@29   = ~Ja, Malthis! Zeigt uns, was ich Euch steckt! Folgt dem dunklen Weg, er wird Euch bestimmt zur Macht führen.~
+@30   = ~Hat man Euch zum Freund, dann braucht man keine Feinde. Dennoch, Ihr habt Recht, <CHARNAME>! Danke...ich hätte mich fast in dem Strudel des Bösen verloren, obwohl ich damit verdammt und meine Handlungen sinnlos wären. Die Ritter waren in mir und haben mich bedrängt! Es ist alles so sinnlos...Wenn wir schon zugrunde gehen müssen, können wir ja vorher noch nach ihrem Anführer suchen. Dies wird zwar die Mühen nicht wert, denn sie haben ja selbst gesagt, dass nicht mal sie ihn gekannt haben. Versuchen wir es trotzdem mal.~ [MALTH36]
+@31   = ~Mein Gott, Malthis! Ihr seid ja mal etwas motivierend...Vielleicht finden wir ja in absehbarer Zeit weitere Hinweise!~
+@32   = ~Ich danke Euch, <CHARNAME>! Trotz der Verdammnis die über uns schwebt, habt Ihr versucht mir Beistand zu geben. Wo die Tage so hoffnungslos sind, habt Ihr mir einen kleinen Hoffnungsschimmer gegeben.~
+@33   = ~Malthis erwirbt weitere Fähigkeiten
+
+Heute sind wir abermals überfallen worden! Wir konnten die Leute ausschalten und Malthis konnte sich nicht zügeln! Es hätte ihn fast übermannt, aber jetzt hat er weitere Fähigkeiten erworben! Seine Wunden schließen sich fast sofort wieder (alle 5 Sekunden 2 HPs), er kann besser Waffen ausweichen (Rüstungsklasse: -3), ist stärker und geschickter geworden. Des Weiteren ist er auf andere Art stärker geworden, die ihn schneller in seinen Bewegungen (Bewegungsrate: +2) macht. Leider konnten wir noch immer nicht den Strippenzieher ausfindig machen und haben keine weiteren Anhaltspunkte...~
+@34   = ~Ja, <CHARNAME>! Ihr habt Recht! Ich werde meiner Macht freien Lauf lassen! Ziehen wir weiter...nichts kann uns aufhalten...HaHaHa...Aber was ist das?! Ich fülle mich so anders...ich verwandel mich!!~
+@35   = ~Malthis wird einem Vampir immer ähnlicher
+
+Heute sind wir abermals überfallen worden! Wir konnten die Leute ausschalten und Malthis konnte sich nicht zügeln! Ich habe ihn sogar noch bestärkt! Er ändert sein Verhalten. Er ist jetzt schnell reizbar und ziemlich mürrisch, ja fast schon böse (Gesinnungswandel: Chaotisch böse)! Seine Wunden schließen sich fast sofort wieder (alle 5 Sekunden 2 HPs), er kann besser Waffen ausweichen (RK: -3), ist stärker und geschickter geworden. Des Weiteren scheint er gegen Energieverlust immun zu sein. Leider konnten wir noch immer nicht den Strippenzieher ausfindig machen und haben keine weiteren Anhaltspunkte...~
+@36   = ~Nein, NEIN...Ich kann den Durst nicht zurückhalten...Es ist wie ein Drang, <CHARNAME>! Mein Körper lechzt nach Nahrung, Nahrung, die ihm so lange vorenthalten wurde.....*Ihr seht, wie Malthis seine Zähne in die Halsschlagader des Vampyrs gräbt. Eine Welle unglaublicher Energie rast durch seinen Körper...*~
+@37   = ~Nun ist es abgeschlossen. Dieser Kampf war so sinnlos und unnütz! Ich bin nicht hoffnungsvoller gestimmt. Viele Menschen musste wegen dieser Kraft sterben. War es das wert, <CHARNAME>? Könnt Ihr mir diese Frage beantworten?~
+@38   = ~Niemand wird Euch diese Frage abschließend beantworten können, Malthis! Ihr seid es zuverlässiges Mitglied dieser Gruppe geworden und ich möchte nicht auf Euch verzichten. Ich bin froh, dass Ihr Eure *Transformation* abgeschlossen habt.~
+@39   = ~Ich macht mich noch verrückt mit eurer Niedergeschlagenheit! Verdammt nochmal, seid froh, dass wir diesen Kampf gewonnen haben und schwafelt mir nicht immer die Ohren voll! Ihr seid ja schlimmer als ein wandelnder Todesbote...!~
+@40   = ~Ja, Ihr habt Recht, <CHARNAME>! Wo die Tage so hoffnungslos sind, habt Ihr mir einen weiteren kleinen Hoffnungsschimmer gegeben. Dennoch steht unser Schicksal schon fest und wir können nichts anderes tun, als uns zu fügen...!~
+@41   = ~Die Transformation von Malthis ist abgeschlossen
+
+Heute sind wir auf eine kleine Zelle der Vampyre in Atkatla gestoßen! Es war ein harter Kampf, aber wir obsiegten. Malthis hat seine Transformation fortgesetzt und ist ein guter Vampyr geworden. Er hat mir oft und lange Beistand geleistet und ich bin froh, dass ich ihn in der Gruppe habe. Wir alle sind gespannt, was noch auf uns zukommt. Der Vampyr sprach noch von einer großen Anzahl von weiteren Vampyren! Das war sicherlich erst der Anfang...
+
+Bisherige Fähigkeiten von Malthis
+-	Schadensbonus +4
+-	Bonus AC -4
+-	Immunität gg. Lebensabzug
+-	Bewegungsbonus +2
+-	Reg: alle 2 Sekunden 2 HPs
+~
+@42   = ~Die Transformation von Malthis in eine Art Vampyr ist abgeschlossen
+
+Heute sind wir auf eine kleine Zelle der Vampyre in Atkatla gestoßen! Es war ein harter Kampf, aber wir obsiegten. Malthis hat seine Transformation fortgesetzt und ist ein guter Vampyr geworden. Er hat mir oft und lange Beistand geleistet und ich bin froh, dass ich ihn in der Gruppe habe. Wir alle sind gespannt, was noch auf uns zukommt. Das war sicherlich erst der Anfang...
+
+Bisherige Fähigkeiten von Malthis (menschliche Form)
+-	Schadensbonus +3
+-	Bonus AC -4
+-	Immunität gg. Lebensabzug
+-	Magieschaden reduziert: 10%
+-	Bewegungsbonus +2
+-	Schadensreduzierung: 10 %
+-	Reg: alle 4 Sekunden 2 HPs
+- 	Elementarschutz
+
+Bisherige Fähigkeiten von Malthis (wölfische Form)
+-	Schadensbonus +1
+-	Grund AC -4
+-	Immunität gg. Lebensabzug
+-	Magieschaden reduziert: 10%
+-	Bewegungsbonus beschleunigt
+- 	Elementarschutz
+- 	Keine Schadensreduzierung
+-	Unsichtbares entdecken
+-	Waffe: Gebiss (trifft wie Waffe +1)
+~
+@43   = ~ Ich kann dieses Tun nicht gutheißen! Ich muss mich von diesen Barbaren trennen. Ich wünsche Euch dennoch viel Glück auf Euren Reisen.~
+@44   = ~Oh nein! Bitte kommt wieder.  Es tut mir Leid!~
+@45   = ~Ich danke Euch, Malthis. Lebt denn wohl.~
+@46   = ~Diese Gruppe ist heute besonders hoffnungslos! Ich werde wohl erstmal in Atkatla bleiben. Am Besten werde ich auf dem Friedhof in Atkatla warten, da ist es etwas ruhiger!~
+@47   = ~Wir werden Euch beim Friedhof treffen, wenn wir Eure Dienste wieder benötigen. Danke, Malthis!~
+@48   = ~Wartet genau hier, Malthis. Wenn wir Euch wieder brauchen, werden wir zurückkommen.~
+@49   = ~Wir haben eine gute Zeit miteinander verbracht. Ich wünsche Euch viel Glück auf Euren Reisen. Ich werde jetzt wohl endgültig Atkatla verlassen. Lebt denn wohl, <CHARNAME>!~
+@50   = ~Oh nein! Bitte kommt wieder.  Es tut mir Leid!~
+@51   = ~Wenn Ihr es so haben wollt, mickrig<PRO_MANWOMAN>! Ich wünsche Euch viel dennoch Glück auf Euren weiteren Reisen! Lebt denn wohl...!~
+@101 = ~Ich bin verwundet worden! Feuer- und auch Säureangriffe reduzieren meine Regenerationsrate! Der Heilungszyklus wird sich verlangsamen, bis ich wieder voll genesen bin!~
+
+
