@@ -1,8 +1,8 @@
-# Malthis
-Malthis est un compagnon bretteur vampyre que vous trouverez près de la forge de Cromwell la nuit.
+# Malthis le bretteur vampyre
+
+Il vous atend près de la forge de Cromwell la nuit.
 
 Particularités :
-
 - Il a très peu de dilaogues et aucun banter.
 - Il commence avec 289000 xps.
 - Il a 17/17/17 en force, dextérité et constitution, mais suivre sa quête personnelle boostera ses caractéristiques jusqu'à 19/19/18. Ajoutez à ça la régénération, quelques immunités et un équipement de base cheaté.
