@@ -82,8 +82,15 @@ COPY ~Malthis/Malt10.cre~ ~override/Malt10.cre~
  
  
 // Hier die Skripte (Das Erste entfernt, um Kompatibilität mit Knight Kits zu gewährleisten)
-COMPILE ~Malthis/Malt.baf~
-  USING ~Malthis/tra/%s/MaltBAF.tra~
+
+ACTION_IF GAME_IS ~BG2 TOB BGT BG2EE~ THEN BEGIN
+COMPILE ~Malthis/MalthisPortrait/Malt.baf~  USING ~Malthis/tra/%s/MaltBAF.tra~
+END
+
+ACTION_IF GAME_IS ~EET~ THEN BEGIN
+COMPILE ~Malthis/MalthisPortraitEE/Malt.baf~  USING ~Malthis/tra/%s/MaltBAF.tra~
+END
+
 
 //////////////////////////////////////////////RAUSGENOMMEN, DA FEHLINTERPRETATION VON REPLACE
 // Hier die Bcs-Skripte von Malthis und das Kampfskript für die Feinde
