@@ -1,0 +1,10 @@
+Mise à jour 2.1 :
+- Routine pour BG2EE et EET
+- Mise au format des portraits dans le cas d'une installation EE
+- Correction du texte français pour les capacités des objets.
+
+Mise à jour 2.2 :
+- vraie intégration dans EET, modification des CHAPTER incluse
+
+Mise à jour 2.3 :
+- Ajout de la langue anglaise, tirée du BWS.

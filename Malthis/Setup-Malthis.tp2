@@ -1,7 +1,7 @@
 BACKUP ~Malthis/backup~
 AUTHOR ~jastey@web.de~ //Octavian is the author
 
-VERSION ~Version 2~
+VERSION ~Version 2.3~
 
 README ~Malthis\liesmich_malthis.htm~
 
@@ -29,6 +29,10 @@ LANGUAGE ~Deutsch~
 LANGUAGE ~Francais~
          ~french~
          ~Malthis\Tra\french\Setup.tra~
+		 
+LANGUAGE ~English~
+         ~english~
+         ~Malthis\Tra\english\Setup.tra~
 
 BEGIN @0
 
