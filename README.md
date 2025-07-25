@@ -3,7 +3,7 @@
 Il vous attend près de la forge de Cromwell la nuit.
 
 Particularités :
-- Caractéristiques : force 17, dextérité 18, endurance 17, intelligence 10, sagesse 11, charisme 11.
+- Caractéristiques : FOR 17, DEX 18, CON 17, INT 10, SAG 11, CHA 11.
 - Il est entièrement vocalisé (en allemand).
 - Il a très peu de dialogues et aucun banter.
 - Il commence avec 489K xps.
