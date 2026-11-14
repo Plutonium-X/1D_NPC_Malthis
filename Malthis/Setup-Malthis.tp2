@@ -34,6 +34,10 @@ LANGUAGE ~English~
          ~english~
          ~Malthis\Tra\english\Setup.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~Malthis\Tra\schinese\Setup.tra~
+
 BEGIN @0
 
 // die mp3s:
