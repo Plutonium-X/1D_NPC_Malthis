@@ -1,7 +1,7 @@
 BACKUP ~Malthis/backup~
 AUTHOR ~jastey@web.de~ //Octavian is the author
 
-VERSION ~Version 2.3~
+VERSION ~Version 2.4~
 
 README ~Malthis\liesmich_malthis.htm~
 
@@ -89,7 +89,7 @@ COPY ~Malthis/Malt10.cre~ ~override/Malt10.cre~
  SAY SELECT_RARE1 @20 
  
  
-// Hier die Skripte (Das Erste entfernt, um Kompatibilität mit Knight Kits zu gewährleisten)
+// Hier die Skripte (Das Erste entfernt, um KompatibilitÃ¤t mit Knight Kits zu gewÃ¤hrleisten)
 
 ACTION_IF GAME_IS ~BG2 TOB BGT BG2EE~ THEN BEGIN
 COMPILE ~Malthis/MalthisPortrait/Malt.baf~  USING ~Malthis/tra/%s/MaltBAF.tra~
@@ -101,16 +101,16 @@ END
 
 
 //////////////////////////////////////////////RAUSGENOMMEN, DA FEHLINTERPRETATION VON REPLACE
-// Hier die Bcs-Skripte von Malthis und das Kampfskript für die Feinde
+// Hier die Bcs-Skripte von Malthis und das Kampfskript fÃ¼r die Feinde
 //COPY ~Malthis/MALT.BCS~ ~override/MALT.BCS~
 //  REPLACE 99999 ~Ahh, die Sonne verbrennt mich...~
 //  REPLACE 99998 ~Ahh, der geheiligte Boden verbrennt mich...~
-//  REPLACE 99997 ~Ich spüre weitere Energien...!~
-//  REPLACE 99996 ~Weitere Fähigkeiten durch die Wolfsform
+//  REPLACE 99997 ~Ich spÃ¼re weitere Energien...!~
+//  REPLACE 99996 ~Weitere FÃ¤higkeiten durch die Wolfsform
 //
-//Es scheint so, als ob Malthis durch die lange Zeit in der Wolfsform eine besondere Affinität zu Wölfen entwickelt hat. Er kann nun Wolfwere zur Unterstützung rufen, die ihm im Kampf helfen.
+//Es scheint so, als ob Malthis durch die lange Zeit in der Wolfsform eine besondere AffinitÃ¤t zu WÃ¶lfen entwickelt hat. Er kann nun Wolfwere zur UnterstÃ¼tzung rufen, die ihm im Kampf helfen.
 //
-//Wolfwere beschwören 
+//Wolfwere beschwÃ¶ren 
 //Grad: 1
 //Reichweite: Sichtweite des Zaubernden
 //Wirkungsdauer: 2 Minuten
@@ -118,10 +118,10 @@ END
 //Wirkungsbereich: Speziell
 //Rettungswurf: Nein
 //
-//Durch diesen Zauber wird die Verbindung von Malthis zu den Wölfen symbolisiert. Es werden entweder zwei Wolfwere oder ein Höherer Wolfwer beschworen. Die Wölfe gehorchen Malthis und können einfache Befehle ausführen.~
-//  REPLACE 99995 ~Malthis erlangt weitere Fähigkeiten
+//Durch diesen Zauber wird die Verbindung von Malthis zu den WÃ¶lfen symbolisiert. Es werden entweder zwei Wolfwere oder ein HÃ¶herer Wolfwer beschworen. Die WÃ¶lfe gehorchen Malthis und kÃ¶nnen einfache Befehle ausfÃ¼hren.~
+//  REPLACE 99995 ~Malthis erlangt weitere FÃ¤higkeiten
 //
-//Durch die vielen Kämpfe scheint Malthis weitere Fähigkeiten erworben zu haben. Er kann sich nun einmal täglich in eine Gaswolke verwandeln. In dieser ist er immun gegen viele Körperschäden und gegen einen Großteil magischer Attacken.~
+//Durch die vielen KÃ¤mpfe scheint Malthis weitere FÃ¤higkeiten erworben zu haben. Er kann sich nun einmal tÃ¤glich in eine Gaswolke verwandeln. In dieser ist er immun gegen viele KÃ¶rperschÃ¤den und gegen einen GroÃŸteil magischer Attacken.~
 ////////////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -141,7 +141,7 @@ COPY ~Malthis/MalthisItems/MLEAT1.itm~ ~override/MLEAT1.itm~
  SAY NAME2 @22
  SAY DESC @23
 
-//Bam für die Rüstung
+//Bam fÃ¼r die RÃ¼stung
 COPY ~Malthis/MalthisItems/MLEAT1.bam~ ~override/MLEAT1.bam~
 
 
@@ -172,7 +172,7 @@ COPY ~Malthis/MalthisItems/MSW1H2.itm~ ~override/MSW1H2.itm~
 
 COPY ~Malthis/MalthisItems/MWOLKE.ITM~ ~override/MWOLKE.ITM~
 
-// Hier die Sprüche, um die Ringe zu bekommen
+// Hier die SprÃ¼che, um die Ringe zu bekommen
 COPY ~Malthis/MalthisSpells/MRINGSPL.SPL~ ~override/MRINGSPL.SPL~
 COPY ~Malthis/MalthisSpells/MRINGSP2.SPL~ ~override/MRINGSP2.SPL~
 COPY ~Malthis/MalthisSpells/MRINGSP4.SPL~ ~override/MRINGSP4.SPL~
@@ -218,7 +218,7 @@ COPY ~Malthis/MalthisRitter/MDokumen.itm~ ~override/MDokumen.itm~
    SAY IDENTIFIED_DESC @33
 
 
-// Hier die Dateien für den Kontakt im Brückenviertel
+// Hier die Dateien fÃ¼r den Kontakt im BrÃ¼ckenviertel
 COPY ~Malthis/MalthisKontakt/Mkontakt.cre~ ~override/MKONTAKT.cre~
 COMPILE ~Malthis/MalthisKontakt/MKontakN.d~
   USING ~Malthis/tra/%s/MKontakN.tra~
@@ -270,7 +270,7 @@ COPY ~Malthis/MalthisVampir/MMENSCHV.SPL~ ~override/MMENSCHV.SPL~
 COPY ~Malthis/MalthisVampir/MWOLFVAM.ITM~ ~override/MWOLFVAM.ITM~
 
 
-// Paperdolls für Gaswolke
+// Paperdolls fÃ¼r Gaswolke
 COPY ~Malthis/MalthisPaperDoll/MMSTINV.BAM~ ~override/MMSTINV.BAM~
 
 // Hier die ToB-Sachen...
@@ -326,7 +326,7 @@ APPEND ~pdialog.2da~ // SOA vorhanden
 UNLESS ~Malt~
 UNLESS ~25POST~
 
-APPEND ~pdialog.2da~ // Für ToB; momentan aber nicht geplant
+APPEND ~pdialog.2da~ // FÃ¼r ToB; momentan aber nicht geplant
 ~Malt      MaltP           MaltJ          MaltD       Malt25P                Malt25J                Malt25                   Malt25~
 UNLESS ~Malt~
 IF ~25POST~
